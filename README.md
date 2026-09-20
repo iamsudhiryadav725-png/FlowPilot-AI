@@ -112,6 +112,13 @@ The frontend includes a product and developer API surface aligned to SaaS platfo
 
 <img width="1600" height="738" alt="WhatsApp Image 2026-09-20 at 11 23 30 PM" src="https://github.com/user-attachments/assets/41c01a00-de75-43fc-9eda-fc2ebfd8aa50" />
 
+<img width="1381" height="670" alt="WhatsApp Image 2026-09-20 at 11 26 40 PM" src="https://github.com/user-attachments/assets/bd37ed8c-9438-48e4-9f20-aad6148cf112" />
+<img width="1600" height="724" alt="WhatsApp Image 2026-09-20 at 11 24 57 PM" src="https://github.com/user-attachments/assets/25bd157f-32b5-4a73-9ac3-4361eb100977" />
+![Uploading WhatsApp Image 2026-09-20 at 11.24.01 PM.jpeg…]()
+
+
+
+
 
 ## Roadmap
 
