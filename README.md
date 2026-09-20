@@ -110,9 +110,8 @@ The frontend includes a product and developer API surface aligned to SaaS platfo
 
 ## Contribution
 
-1. Create a branch for your feature
-2. Implement the change and validate with lint/build
-3. Open a pull request with a concise summary and screenshots if relevant
+<img width="1600" height="738" alt="WhatsApp Image 2026-09-20 at 11 23 30 PM" src="https://github.com/user-attachments/assets/41c01a00-de75-43fc-9eda-fc2ebfd8aa50" />
+
 
 ## Roadmap
 
